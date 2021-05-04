@@ -293,7 +293,7 @@
       "dan": 100
     }
   ],
-  "modes": [
+  "maps": [
     {
       "image": "https://raw.githubusercontent.com/AnhPhamRepository/SwampAttack/main/Campaign.jpg",
       "name": "Campaign",

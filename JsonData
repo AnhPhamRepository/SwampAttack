@@ -293,22 +293,32 @@
       "dan": 100
     }
   ],
-  "maps": [
+  "modes": [
     {
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map3.jpg",
-      "name": "Windows? More like win-NOs",
-      "desc": "If you can't find an entrance, or a distraction, make your own, right? Exactly.\n If you need to make a quick escape - or a daring entrance - you can take out a window and jump straight through. Hold the item button when looking at small items, and you'll be able to pick them up. A second tap will throw them, smashing any windows in the way.\n You'll also notice the neighbour himself like to just, erm, stroll through windows sometimes. It's quicker, I suppose?"
+      "name": "Campaign",
+      "desc": "The single-player story mode in the game. The game mode has a series of levels to play and a history made in cutscenes after ending or starting an episode. It also has three types of levels; the normal levels, UFO levels and boss fight levels. This is considered the most played game mode in Swamp Attack."
     },
 	{
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
-      "name": "Perfect stealth?",
-      "desc": "Of course, the best way to make it through is with perfect stealth, in every sense of the word. It's possible, just difficult.\n You'll need to stay behind the neighbour, if you ever need to pass him by, and tiptoe your way around the dungeon-like building to make sure you don't get caught.\n But also, in your early tries, don't be too afraid to just run in, find a method of progression, and then using what you've learnt on your next time through. It is basically a roguelike, after all.\n You can use his cupboards and wardrobes to hide away in if he's onto you, but they're not perfect…"
+      "name": "Multiplayer",
+      "desc": "The only mode where two players are available. In this game mode, a player must search for an opponent online to play. At the game, players must shoot at several birds and send their eggs, which they drop after being killed, to the opponent. Since the eggs have monsters inside, they will crack and release them, attacking the opponent."
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
+      "name": "Challenge",
+      "desc": "A special mode used to get more weapons and coins. In this game mode, there are 42 levels that can be played to collect items and more coins. The items are given by opening a box which contains them, but however, all of them are just pre-set and not upgraded. The last level has a boss fight with a large pig, which must defeated to complete the challenge game mode."
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
+      "name": "Quick Mission",
+      "desc": "A special mode to collect coins. In this game mode, the player will be sent to an unique level for the mission, which must be completed to collect more coins since this is the purpose of the quick mission game mode."
     }
   ],
   "guides": [
     {
-      "title": "Nosy neighbours",
-      "content": "So the aim of the game here is to get into your neighbour's house, and find his secrets. And, oh, there are secrets. He's hiding away a few fantastical things in the depths of his abode, and it's up to you to seek them out. \n Getting in there won't be easy though, as the neighbour is watching. If he sees you, he'll throw things at you and seek you down.\nLuckily you can walk slowly and use the walls and corners of the house to hide and make progress unaware.",
+      "title": "Challenge",
+      "content": "A special mode used to get more weapons and coins. In this game mode, there are 42 levels that can be played to collect items and more coins. The items are given by opening a box which contains them, but however, all of them are just pre-set and not upgraded. The last level has a boss fight with a large pig, which must defeated to complete the challenge game mode.",
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map1.jpg"
     },
 	{

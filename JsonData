@@ -30,7 +30,7 @@
   "aln": "",
   "is_force_aln": true,
   "tou": "",
-  "Characters": [
+  "characters": [
     {
       "image": "https://raw.githubusercontent.com/AnhPhamRepository/SwampAttack/main/Character1.JPG",
       "name": "Redneck",

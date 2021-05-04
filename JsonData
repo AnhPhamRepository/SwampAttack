@@ -30,11 +30,88 @@
   "aln": "",
   "is_force_aln": true,
   "tou": "",
-  "Introduce": [
+  "Characters": [
     {
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
-      "name": "Introduce",
-      "info": "Toca Kitchen 2 comes from the award-winning Swedish studio Toca Boca (the name means “touch mouth” in slightly ungrammatical Spanish). Though designed for children aged 3 to 6, the appeal of this app is broad and it’s quite possible for older children – and, ahem, some fathers – to enjoy Toca Kitchen 2 as well. Toca Boca describes this app as a “digital toy”, and so the emphasis is on free play rather than achieving game objectives. This means that there is no scoring, no winning or losing, and no game levels to work through. \n Instead, players prepare meals for three hungry guests – a young girl in a punk t-shirt, a man with a rather nicely groomed moustache and a fuzzy haired monster wearing a green necktie. As you’d expect in an app designed for iPads and iPhones,the game is controlled completely by touch screen. At the left of the screen you can access a fully stocked pantry containing fruit and vegetables (including one very odd-looking blue fruit that resembles Haley’s Comet), bread, fish, and meat. A vegetarian option is also available for families that way inclined (such as ours). Flick to the bottom of the screen and all your seasonings and condiments pop up. Pick up your virtual knife to slice and dice your ingredients. Flick to the right to open a menu for different cooking methods including pan-frying, deep-frying, roasting and a blender. Finally, plate up your dish and wait to see your guest’s reaction at your latest culinary creation.",
+      "name": "Redneck",
+      "info": "Redneck is the main protagonist of Swamp Attack. Redneck must defend his house from several monsters, while the latters think that Redneck is an intruder to the swamp. Redneck has appeared in all of the levels and episodes. Redneck usually sits in his rocking chair. He is first seen in a cutscene of "Such a Nice Evening", which would become his first appearance in overall. He is commonly seen holding a shotgun, which he uses to attack enemies.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Cousin Roy",
+      "info": "Cousin Roy, simply known as Roy, is a defense character and the deuteragonist of Swamp Attack. Roy is the adoptive cousin of Redneck and adopted son of Aunt Misty and Uncle Joe. He is a chameleon who likes to sit in places and eat flying creatures, commonly insects. \n Roy made his first appearance in "The Y-Files", appearing in an icon when checking one of the gifts, unlocking him. However, that wasn't a physical appearance. He attacks by range, using his tongue against aerial monsters, hitting them with high damage and used so Roy can swallow the monsters completely.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Aunt Misty",
+      "info": "Aunt Misty, simply known as Misty, is a defense character and the tritagonist of Swamp Attack. She is the aunt of Redneck, husband of Uncle Joe and adoptive mother of Cousin Roy. She is a retired person and likes to use lifebuoys. \n Misty made her first appearance in "World War SWAMP" at an icon that indicates she got unlocked, which appears after opening a gift at the end of the level, but doesn't count due to not physically appearing. She attacks by melee, using a paddle to hit monsters close to her.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Neighbor Bud",
+      "info": "Neighbor Bud, simply known as Bud, is a defense character and the tertatagonist of Swamp Attack. Bud is Redneck's best friend and neighbor, living in the right side with an identical house to Redneck's. \n Bud made his first appearance in "Metal Dawn", pictured in an icon after opening a gift at the ending of the level, unlocking him in the process, but this depiction isn't counted due to not being a physical appearance. He attacks by range, using a shotgun, identical to Redneck's.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Bear",
+      "info": "The Bear is a defense character and the pentagonist of Swamp Attack. It is a habitant from the Swamp that wants to help Redneck at his home. It throws molotovs to the monsters if they enter its attack ratio. \n The Bear debuted in the level "Bear!", named after it. It appears pictured in an icon after opening a gift at the end of the level, unlocking it in the process. The Bear doesn't have a name, being named only after its species.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Uncle Joe",
+      "info": "Uncle Joe, simply known as Joe, is a defense character and the hexagonist of Swamp Attack. He is a construction worker, the uncle of Redneck, the husband of Aunt Misty and the adoptive father of Cousin Roy. \n Joe debuted in "Going With The Flow", seen in an icon after opening a gift that appears at the end of the level, unlocking him in this process, but still doesn't count as his debut since this isn't a physical appearance. He is both a range and melee defense, using flying bricks for range and a shovel for melee.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "The Evil Scientist",
+      "info": "The Evil Scientist is the main antagonist of Swamp Attack. Currently, the scientist has only appeared in 3 cutscenes and absent in the main gameplay of them. His last appearance for now is in the cutscene of The Steel Giant.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.jpg",
+      "name": "Crocodile",
+      "info": "The Crocodile is a monster and the most basic unit in Swamp Attack. Crocodiles were the very first monsters to appear in the game, debuting in the game's first level, Such a Nice Evening. \n They are also the most recurring monsters in the game. Crocodiles made their first appearance in Swamp Attack's very first level,Such a Nice Evening. They have been active units for a long time",
       "level": [
         ""
       ],
@@ -46,9 +123,9 @@
   "weapons": [
     {
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons1.jpg",
-      "name": "Bear Trap",
-      "desc": "Bear traps are placed in areas that the Player visits frequently, with the intent of making it easier for the Neighbor to catch them. In the Pre-Alpha, the Neighbor also threw bear traps while chasing the player. If the player walks into the trap (or interacts with it, prior to Alpha 2), they will be caught and will need to repeatedly press the space bar to escape. If the Neighbor is trapped, he will grab his leg and attempt to pull it out of the jaws of the trap, succeeding after a few attempts. When a trap is triggered, the sound of its jaws snapping shut will attract the attention of the Neighbor, similar to the cameras.\n If the player breaks a window, the Neighbor may place a bear trap next to the window in order to trap the player the instant they jump through it. The player can also pick up bear traps and use them against the Neighbor, but they can only be picked up if the trap is closed. In the Pre-Alpha, there were sometimes three different-sized bear traps hanging on the wall of the garage that served no purpose, but could still trap the player if they walked into them.",
-      "type": "Bear Trap",
+      "name": "Shotgun",
+      "desc": "Maximum ammo: 20, Item Type: Weapon ",
+      "type": "Shotgun",
       "attribute": [
         "",
         ""
@@ -65,9 +142,9 @@
     },
 	{
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons2.jpg",
-      "name": "Fireworks",
-      "desc": "The Fireworks were an item that could be found in Alpha 2. They made their first appearance here. The Fireworks can be thrown at the Neighbor to stun him. They are found in the Bird Room upstairs. They were one of the items that were introduced in Alpha 2. There was a handful of Firework boxes, but unfortunately do not stun the neighbor when ignited, though, in the Fireworks Gameplay trailer, the fireworks did in fact stun the neighbor for a brief period of time when they were ignited. Them not working in the final version may have been from switching Unreal Engine versions or accidentally tampered with, causing them to not work. The fireworks can still be ignited and set off, but have no effect on the player or the neighbor.\nIn Nieghbor_3, you can still find 3 boxes of fireworks, but do not affect you or the neighbor here either. After this, the fireworks went unused for a period of time, but would later return.",
-      "type": "Fireworks",
+      "name": "Uzi",
+      "desc": "Maximum ammo: 416, Item Type: Weapon ",
+      "type": "Uzi",
       "attribute": [
         "",
         ""
@@ -84,9 +161,9 @@
     },
 	{
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons3.jpg",
-      "name": "Telephone",
-      "desc": "The Telephone is a Weapon and Tool Item found in your House. If picked up, it causes the Neighbor to walk to the phone by his front door. It should be used to distract the Neighbor, most likely so you can get in through the Back Door.",
-      "type": "Telephone",
+      "name": "M16",
+      "desc": "Maximum ammo: 240, Item Type: Weapon ",
+      "type": "M16",
       "attribute": [
         "",
         ""
@@ -103,9 +180,9 @@
     },
 	{
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons4.jpg",
-      "name": "Rifle",
-      "desc": "The Rifle is a key item in Hello Neighbor that first appeared in Alpha 1.\nThe rifle is a toy gun with a gray muzzle and brown stock, which has the words Bang! Bang! etched onto it. The bullets it shoots are yellow cone-shaped pellets, which are about the size of apples and presumably made out of styrofoam.",
-      "type": "Rifle",
+      "name": "Flamethrower",
+      "desc": "Maximum ammo: 240, Item Type: Weapon ",
+      "type": "Flamethrower",
       "attribute": [
         "",
         ""
@@ -122,9 +199,9 @@
     },
 	{
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/weapons5.jpg",
-      "name": "Base Balls",
-      "desc": "A baseball is a ball used in the sport of the same name, baseball. The ball features a rubber or cork center and covered in the words of the Official Baseball Rules and are used in the final boss fight.",
-      "type": "Base Balls",
+      "name": "Crossbow",
+      "desc": "Maximum ammo: 16, Item Type: Weapon ",
+      "type": "Crossbow",
       "attribute": [
         "",
         ""
@@ -141,9 +218,66 @@
     },
 	{
       "image": "https://github.com/AnhPham-Repository/HelloNeighbor/blob/main/weapons6.jpg",
-      "name": "Bucket",
-      "desc": "Buckets are items in Hello Neighbor that the Neighbor sets up as traps.\n Buckets were blue and plastic with a yellow handle (with their design changing slightly in Alpha 2) until Beta 3, when they were turned into a metallic silver.",
-      "type": "Bucket",
+      "name": "RPG",
+      "desc": "Maximum ammo: 10, Item Type: Weapon ",
+      "type": "RPG",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://github.com/AnhPham-Repository/HelloNeighbor/blob/main/weapons6.jpg",
+      "name": "Minigun",
+      "desc": "Minigun, also know as Machine Gun is a very powerful weapon. It has 1000 in Ammo Capacity, it is also long range, as you can kill a whole hoard of monsters far away before they are even on screen. It kills Boss Monsters such as the Giant Beaver depending on how you upgraded it, being to no upgrades to max.",
+      "type": "Minigun",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://github.com/AnhPham-Repository/HelloNeighbor/blob/main/weapons6.jpg",
+      "name": "Fridge",
+      "desc": "Maximum ammo: 20, Item Type: Explosive ",
+      "type": "Fridge",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    },
+	{
+      "image": "https://github.com/AnhPham-Repository/HelloNeighbor/blob/main/weapons6.jpg",
+      "name": "Dynamite",
+      "desc": "Maximum ammo: 20, Item Type: Explosive ",
+      "type": "Dynamite",
       "attribute": [
         "",
         ""

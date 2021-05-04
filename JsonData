@@ -295,22 +295,22 @@
   ],
   "modes": [
     {
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map3.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/SwampAttack/main/Campaign.jpg",
       "name": "Campaign",
       "desc": "The single-player story mode in the game. The game mode has a series of levels to play and a history made in cutscenes after ending or starting an episode. It also has three types of levels; the normal levels, UFO levels and boss fight levels. This is considered the most played game mode in Swamp Attack."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/SwampAttack/main/Multiplayer.jpg",
       "name": "Multiplayer",
       "desc": "The only mode where two players are available. In this game mode, a player must search for an opponent online to play. At the game, players must shoot at several birds and send their eggs, which they drop after being killed, to the opponent. Since the eggs have monsters inside, they will crack and release them, attacking the opponent."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/SwampAttack/main/Challenge.jpg",
       "name": "Challenge",
       "desc": "A special mode used to get more weapons and coins. In this game mode, there are 42 levels that can be played to collect items and more coins. The items are given by opening a box which contains them, but however, all of them are just pre-set and not upgraded. The last level has a boss fight with a large pig, which must defeated to complete the challenge game mode."
     },
 	{
-      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/map4.jpg",
+      "image": "https://raw.githubusercontent.com/AnhPhamRepository/SwampAttack/main/Quick%20Mission.jpg",
       "name": "Quick Mission",
       "desc": "A special mode to collect coins. In this game mode, the player will be sent to an unique level for the mission, which must be completed to collect more coins since this is the purpose of the quick mission game mode."
     }
